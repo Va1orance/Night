@@ -1,5 +1,5 @@
 # Night - A family of keyboard layouts.
-And so the rot consumes...
+And so the stats rot consumes...
 
 Night
 ```
@@ -28,7 +28,7 @@ x z j k q  ; c ' / ,
 Welcome to the design ramble of Night(s). This is a family of layouts I created - originally under one design theory, but shifted to each their own later down the line.
 This is going to be a long ramble, so I'll just share what most people will want to know here.
 
-Do I recommend this layout? Yes. "Duh", I made it. This isn't one of the many meme layouts I make for min-max (optimizing for one specific statistic) and overall follows good design.
+Do I recommend this layout? Yes, I made it to be good after all. This isn't one of the many meme layouts I make for min-maxing (optimizing for one specific statistic) and overall follows good design.
 Here is the **basic** summary:
 
 Night
@@ -49,25 +49,26 @@ Nights
 - Decent SFSs
 - Okay Finger Positions
 
-For most people, just go with Night. There's a reason I'm not explaining the depth here, as it won't really affect you. But, if you want to learn why there are three, when one clearly seems better than the rest, read on!
+If you want to learn why there are three, when one clearly seems better than the rest, read on!
+
+## Theory Preface
+Before I discuss about the two design theories of the Night family, I have to talk about how they came to be. I **strongly reccomend you read this** as if you disagree, these layouts are probably not optimal for you. I design these layouts for me, and my style of typing; if you have a similar style to mine, you may like this; if you don't that's okay! Just know these layouts may not be so suited to you.
+
+At this point, I have reached 160+ WPM twice, 140+ WPM thrice, and 120+ WPM quadrice.
 
 ## Design Theory
-So, clearly, Night seems like the best... right? Well, here's the thing. The are two original design theory of the Night family. They are:
+So, clearly, Night seems like the best... right? Well, here's the thing. The Night family originally came about due to two design theories:
 - **Finger movement.**
 - **Finger-finger interactions.**
 
-Finger movement is pretty simple. When we type fast, we don't want the fingers to move very far. This just causes more time to be wasted. It's been done before, but not quite to the level I have done here (at least I think).
+**Finger movement** is pretty simple. When we type fast, we don't want the fingers to move very far. This just causes more time to be wasted. It's been done before, but not quite with the integration as I have done here (i.e. with modern layout designs).
 
-Finger-finger is a bit more complicated.
-First, what does this mean? Well (if you are on QWERTY), put your middle finger on E and your index on V. Alternate as fast as you can between the two (evevevevev). Next, move your index up to R. Alternate as fast as you can between the two (ererererer). Both of these are pretty comfortable, but be honest here *i know your gonna be biased if you know effort maps*, which one feels better? Probably, ER right?
+**Finger-finger interactions** is a bit more complicated.
+The best way I can describe this is how your fingers interact with one another. If you are on QWERTY, put your middle finger on E and your index on C. Alternate as fast as you can between the two (ececececec). Next, move your index up to R. Alternate as fast as you can between the two (ererererer). Both of these are pretty comfortable to be honest, but which one feels easier to alternate fast on? Probably ER right?
 
-In the alternative layout community, this finger opposite location interaction(one extend, one curl, vise versa) is known as a scissor (this specific example, index middle, most don't consider a scissor). Scissors are mostly (changing now) regarded as feeling less "comfortable." **Buttt... The thing is, I don't really buy it.** 
+In the alternative layout community, fingers being placed in opposite positions are regarded as scissors (the example I gave isn't usually considered one due to index being so flexible). I personally do not believe scissors have too much importance - most can be resolved with a simple posture change or small wrist movement - but of course if we can avoid these, might as well.
 
-With the exception of a few extreme ones, I don't really think scissors actually have that much of an effect on typing - especially at fast speeds. Considering wrist movement, posture, etc. most scissors will simply disappear or be masked by bigger issues. 
-
-**However,** what you may also have noticed while spamming the two keys like your playing a rhythm game, is that ER probably felt a bit more natural to alternate fast. **Two fingers being in the same extended or curled position together often feels better interacting.** This is the second theory of Night.
-
-*The former contains my **opinion** of scissors because I want to clarify this isn't a layout designed to minimize scissors (even if it indirectly does). It probably actually has a lot of half-scissors.*
+But all in all, these two design theories (combined with the classic SFBs and SFSs) narrows down to a layout that should perform well at fast typing.
 
 These two layouts culminated in the design of Nightingale and Nights. We will explore each layout in depth when we get there. However, first, we need a basic layout. 
 
