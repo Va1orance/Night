@@ -51,42 +51,82 @@ Nights
 
 If you want to learn why there are three, when one clearly seems better than the rest, read on!
 
-## Theory Preface
-Before I discuss about the two design theories of the Night family, I have to talk about how they came to be. I **strongly reccomend you read this** as if you disagree, these layouts are probably not optimal for you. I design these layouts for me, and my style of typing; if you have a similar style to mine, you may like this; if you don't that's okay! Just know these layouts may not be so suited to you.
+## Theory
+Before I discuss how the layouts came to be, I have to talk about the reasoning behind them. I **strongly reccomend you read this** as if you disagree, these layouts are probably not optimal for you. I design these layouts for me, and my style of typing; if you have a similar style to mine, you may like this; if you don't that's okay! Just know these layouts may not be so suited to you.
 
-At this point, I have reached 160+ WPM twice, 140+ WPM thrice, and 120+ WPM quadrice.
+At this point, I have reached 160+ WPM twice, 140+ WPM thrice, and 120+ WPM quadrice. In learning typing at these speeds, there is a method called "chunky typing" or "chording". This method recommends learning/memorizing common sequences of letters (such an OU; as in "you", "could", "would", etc.) instead of typing letter by letter (or even entire words). What I have personally noticed is that I find learning chunks or chords easier when they feature natural directions of movement (i.e. typing QWE QWE QWE over WQE WQE WQE), feature fingers that are in the same position (i.e. QWE QWE QWE over QXC QXC QXC (type C with middle)), and overall do not require one finger flying from one extreme row to another (i.e. GET GET GET over BET BET BET). Through this set, we can narrow down into actual metrics:
+- Minimal bad redirects
+- Maximal per row usage 
+- Minimal finger movement
+- (and of course classic SFBs)
 
-## Design Theory
-So, clearly, Night seems like the best... right? Well, here's the thing. The Night family originally came about due to two design theories:
-- **Finger movement.**
-- **Finger-finger interactions.**
+Defining each:
+- Bad redirects are redirects that do not involve the index finger and are a series of movements between fingers that do not all "go one direction." An example is ASD vs SAD.
+*I personally don't consider redirects involving index to have any issues but Night generally has low redirects regardless*
+- Maximal per row usage (i.e. maximizing the usage of one row while minimizing the other) combined with minimal finger movement. This is pretty self-explanatory in definition, and if you have all the common letters together on one row, you won't have a lot of row skipping or finger movement.
 
-**Finger movement** is pretty simple. When we type fast, we don't want the fingers to move very far. This just causes more time to be wasted. It's been done before, but not quite with the integration as I have done here (i.e. with modern layout designs).
+Overall, this should narrow down to a layout that feels comfortable at high speeds.
 
-**Finger-finger interactions** is a bit more complicated.
-The best way I can describe this is how your fingers interact with one another. If you are on QWERTY, put your middle finger on E and your index on C. Alternate as fast as you can between the two (ececececec). Next, move your index up to R. Alternate as fast as you can between the two (ererererer). Both of these are pretty comfortable to be honest, but which one feels easier to alternate fast on? Probably ER right?
+*Now one additional thing I would like to mention is regarding row maxing. By having all the common letters on one row, not only do you minimize the movement of a finger in one word, you also minimize its movement over multiple words, sentences, paragraphs, etc. This is something very rarely explored in layout analysis and thus isn't a statistic usually shown.*
 
-In the alternative layout community, fingers being placed in opposite positions are regarded as scissors (the example I gave isn't usually considered one due to index being so flexible). I personally do not believe scissors have too much importance - most can be resolved with a simple posture change or small wrist movement - but of course if we can avoid these, might as well.
-
-But all in all, these two design theories (combined with the classic SFBs and SFSs) narrows down to a layout that should perform well at fast typing.
-
-These two layouts culminated in the design of Nightingale and Nights. We will explore each layout in depth when we get there. However, first, we need a basic layout. 
+With the theory done, we can now move onto the layout itself!
 
 # Basic Layout
 Before we get into optimizing for the theory, I first needed a basis, a homerow. I was tempted to use Stern (I still really really like STH).
 But, it had a two main problems:
 - S repeats commonly enough that it's annoying for a pinky to be doing "SS"
-- T being on the index is fine, but still a lot of usage with D added.
+- T being on the index is fine, but still is a lot of usage with D added.
 
-The reason I used this in the first place was because S paired well with F or V, allowing a mostly low movement pinky, and TH being an inroll. If I wanted to keep this, I would have to run something like NSTH. If this is all you wanted, you could easily do with a simple index swap to Dusk (add link here:tm:):
+The reason I used STR in the first place was because S paired well with F or V, allowing a mostly low movement pinky, and TH being an inroll. If I wanted to keep this, I would have to run something like NSTH. If this is all you wanted, you could easily do with a simple index swap to Dusk (add link here:tm:):
 ```
-x f d ' j  q p o u .
-n s t h m  y c a e i
-b v k l z  w g _ / ,
+x f d ; j  p c o u .
+n s t h m  g y a e i
+b v k l z  q w ' / ,
       r                 
 ```
-In fact, this isn't such a bad idea, and I would give it a shot if you wanted TH onehand. 
+In fact, this layout is quite decent, and I would give it a shot if you wanted TH onehand.
+*update, this layout is very similar to one created by the user brownfox named "nightfall"; I currently have it named as evening if you want to check statistics on CMINI*
 
-But here's where the theory comes in. We want fingers going in the same direction (minimizes both finger movement and finger-finger interactions). On an effort map, most of the keys agree that extending (i.e. top row) is better than curling (i.e. bottom row; except index). So, we should make a layout that has as **little** bottom-row usage as possible. There are a few ways to do this, but the best way I found was NSHT.
+But here's where the theory comes in. 
+
+## Layout Basics Part 2
+First we have to decide on whether top row or bottom row maxing is better (so we know where to place the keys). In short top row is better:
+- Middle up is a very comfortable and ideal column while bottom is rather poor
+- Ring up is a very comfortable and ideal column while bottom is rather poor
+- Pinky and ring up or down generally or minor in difference
+
+Through this, we arrive at the conclusion of having to minimize bottom-row usage. The problem with NSTH is the reliance on an LHM index which severely limits where we can place other letters. Hence, a simple TH swap into NSHT allows us the freedom of T index and also just T being on the index (T is very common as you may know). With this established, we currently have:
+```
+
+n s h t
+
+      r    
+```
+"wow so much amazingness!"
+
+Now yes, I will still be using an R thumb. The short reason for this is that it simply has the best stats. R interacts rather terribly with every other key and thus the best position would be the thumb.
+With this, I will now input the lowest SFB causing letters.
+
+```
+b v l d
+n s h t
+p z m k
+      r    
+```
+Now quite accidentally, we setup LD being right next to each other. This is great as there are a lot of words with LD ("would", "could", etc.). But there are some pretty obvious issues: 
+- BNP pinky is horrendous in usage
+- M being too common for its position
+- M_D/D_M + MD/DM being common
+
+This is pretty bad, but let's fill in the rest of the keyboard first.
+```
+b v l d q  ; y o u .
+n s h t j  g c a e i
+p z m k x  w p ' / ,
+      r    
+```
+Using C as an index allows the lowest possible SFBs, so naturally, I went with that.
+
+## Index Sorting
 
 **TBD**
