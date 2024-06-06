@@ -3,8 +3,8 @@ And so the stats rot consumes...
 
 Night
 ```
-b f l k q  p c o u .
-n s h t m  g y a e i
+b f l k q  p g o u .
+n s h t m  c y a e i
 x v j d z  ; w ' / ,
       r    
 ```
