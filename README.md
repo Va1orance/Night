@@ -11,8 +11,8 @@ x v j d z  ; w ' / ,
 
 Nightingale
 ```
-b f l d v  p c o u .
-n s h t m  g y a e i
+b f l d v  p g o u .
+n s h t m  c y a e i
 x z ; k q  j w ' / ,
       r      
 ```
@@ -49,25 +49,29 @@ Nights
 - Decent SFSs
 - Okay Finger Positions
 
-If you want to learn why there are three, when one clearly seems better than the rest, read on!
+In short, the Night family focuses on having minimal SFBs and minimal bottom row usage.
+If you want to learn why there are three layouts, when one clearly seems better than the rest, read on!
 
-## Theory
+## How, What, Where, When, **Why?**
 Before I discuss how the layouts came to be, I have to talk about the reasoning behind them. I **strongly reccomend you read this** as if you disagree, these layouts are probably not optimal for you. I design these layouts for me, and my style of typing; if you have a similar style to mine, you may like this; if you don't that's okay! Just know these layouts may not be so suited to you.
 
-At this point, I have reached 160+ WPM twice, 140+ WPM thrice, and 120+ WPM quadrice. In learning typing at these speeds, there is a method called "chunky typing" or "chording". This method recommends learning/memorizing common sequences of letters (such an OU; as in "you", "could", "would", etc.) instead of typing letter by letter (or even entire words). What I have personally noticed is that I find learning chunks or chords easier when they feature natural directions of movement (i.e. typing QWE QWE QWE over WQE WQE WQE), feature fingers that are in the same position (i.e. QWE QWE QWE over QXC QXC QXC (type C with middle)), and overall do not require one finger flying from one extreme row to another (i.e. GET GET GET over BET BET BET). Through this set, we can narrow down into actual metrics:
+At this point, I have reached 160+ WPM twice, 140+ WPM thrice, and 120+ WPM quadrice. In learning typing at these speeds, there is a method called "chunky typing" or "chording". This method recommends learning/memorizing common sequences of letters (such an OU; as in "you", "could", "would", etc.) instead of typing letter by letter (or even entire words). What I have personally noticed is that I find learning these chunks/chords easier when they feature natural directions of movement (i.e. typing QWE QWE QWE over WQE WQE WQE), feature fingers that are in the same position (i.e. QWE QWE QWE over QXC QXC QXC (type C with middle)), and overall do not require one finger flying from one extreme row to another (i.e. GET GET GET over BET BET BET). Through this set, we can narrow down into actual metrics:
 - Minimal bad redirects
 - Maximal per row usage 
 - Minimal finger movement
+- *Minimal 2U SFBs/SFSs*
 - (and of course classic SFBs)
 
 Defining each:
 - Bad redirects are redirects that do not involve the index finger and are a series of movements between fingers that do not all "go one direction." An example is ASD vs SAD.
 *I personally don't consider redirects involving index to have any issues but Night generally has low redirects regardless*
-- Maximal per row usage (i.e. maximizing the usage of one row while minimizing the other) combined with minimal finger movement. This is pretty self-explanatory in definition, and if you have all the common letters together on one row, you won't have a lot of row skipping or finger movement.
+- Maximal per row usage (i.e. maximizing the usage of one row while minimizing the other) combines with minimal finger movement. If you have all the common letters together on one row, you won't have a lot of row skipping or finger movement.
+- 2U (U standing for units in keys) SFBs refers to letter combinations that require the same finger to type, but also requires that finger to travel a distance of two keys instead of the usual one (distance over two units are still called 2U). A SFSs 2U is simply the same thing but there is a letter in between the two that doesn't require that same finger.
 
 Overall, this should narrow down to a layout that feels comfortable at high speeds.
 
 *Now one additional thing I would like to mention is regarding row maxing. By having all the common letters on one row, not only do you minimize the movement of a finger in one word, you also minimize its movement over multiple words, sentences, paragraphs, etc. This is something very rarely explored in layout analysis and thus isn't a statistic usually shown.*
+*Also, I would like to clarify that in no way shape of form am I claiming this layout is somehow better than others for fast typing. The reason simply is if people can reach 200+ WPM on QWERTY, Dvorak, etc. there really isn't much of a speed limit caused by a layout. There are many tips aed tricks around problems; this layout simply tries to minimize those problems.
 
 With the theory done, we can now move onto the layout itself!
 
