@@ -8,6 +8,7 @@ n s h t m  c y a e i
 x v j d z  ; w ' / ,
       r    
 ```
+<img height="200" src="https://files.catbox.moe/jhfhne.png" />
 
 Nightingale
 ```
@@ -16,6 +17,8 @@ n s h t m  c y a e i
 x z ; k q  j w ' / ,
       r      
 ```
+<img height="200" src="https://files.catbox.moe/0z2ej6.png" />
+
 Nights
 ```
 b p l d v  w y o u .
@@ -23,7 +26,9 @@ s n h t m  g f a e i
 x z j k q  ; c ' / ,
       r      
 ```
+<img height="200" src="https://files.catbox.moe/e45o5c.png" />
 
+*Heatmaps generated with [KLAnext](https://klanext.keyboard-design.com/#/main) using custom text from "Three Days of Happiness" by Sugaru Miaki*
 ## Preface
 Welcome to the design ramble of Night(s). This is a family of layouts I created - originally under one design theory, but shifted to each their own later down the line.
 This is going to be a long ramble, so I'll just share what most people will want to know here.
@@ -68,10 +73,10 @@ Defining each:
 - Maximal per row usage (i.e. maximizing the usage of one row while minimizing the other) combines with minimal finger movement. If you have all the common letters together on one row, you won't have a lot of row skipping or finger movement.
 - 2U (U standing for units in keys) SFBs refers to letter combinations that require the same finger to type, but also requires that finger to travel a distance of two keys instead of the usual one (distance over two units are still called 2U). A SFSs 2U is simply the same thing but there is a letter in between the two that doesn't require that same finger.
 
+One additional theory that I intended to optimize for was spacegrams. You can think of these as the end of a word + space + beginning of a word (Ex. This is = s_i where _ is space). I didn't really dive too deep into this because I soon realized the difficulty, but it is an interesting thought. It would certainly be possible to predict the most common following words to other words, but I don't have the resources to do that. What I can do however is Monkeytype. Monkeytype realizes on TBD
+
 Overall, this should narrow down to a layout that feels comfortable at high speeds.
 
-*Now one additional thing I would like to mention is regarding row maxing. By having all the common letters on one row, not only do you minimize the movement of a finger in one word, you also minimize its movement over multiple words, sentences, paragraphs, etc. This is something very rarely explored in layout analysis and thus isn't a statistic usually shown.*
-*Also, I would like to clarify that in no way shape of form am I claiming this layout is somehow better than others for fast typing. The reason simply is if people can reach 200+ WPM on QWERTY, Dvorak, etc. there really isn't much of a speed limit caused by a layout. There are many tips aed tricks around problems; this layout simply tries to minimize those problems.
 
 With the theory done, we can now move onto the layout itself!
 
