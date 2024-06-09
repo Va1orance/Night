@@ -22,11 +22,13 @@ x z ; k q  j w ' / ,
 *Heatmaps generated with [KLAnext](https://klanext.keyboard-design.com/#/main) using custom text from "Three Days of Happiness" by Sugaru Miaki*
 ## Preface
 Welcome to the design ramble of Night(s). This is a family of layouts I created - originally under one design theory, but shifted to each their own later down the line.
-This is going to be a long ramble, so I'll just share what most people will want to know here.
+This is going to be a long ramble, so I'll just summarize here:
 
-Do I recommend this layout? Yes, I made it to be good after all. This isn't one of the many meme layouts I make for min-maxing (optimizing for one specific statistic) and overall follows good design.
+Nightingale is an alternative keyboard layout designed for column-staggered keyboards. Much like how a bird spreads its wings to take flight, Nightingale tries to take advantage of the staggering of the keys by allowing one's fingers to maintain close proximity with one another; creating a comfortable typing experience at fast speeds - akin to how one's fingers would rest on a mouse. 
+
+Night is a modification of Nightingale that considers more       
 Here is the **basic** summary:
-
+N
 Night
 - Great SFBs
 - Great Alternation
