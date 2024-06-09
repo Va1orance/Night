@@ -19,15 +19,6 @@ x z ; k q  j w ' / ,
 ```
 <img height="200" src="https://files.catbox.moe/0z2ej6.png" />
 
-Nights
-```
-b p l d v  w y o u .
-s n h t m  g f a e i
-x z j k q  ; c ' / ,
-      r      
-```
-<img height="200" src="https://files.catbox.moe/e45o5c.png" />
-
 *Heatmaps generated with [KLAnext](https://klanext.keyboard-design.com/#/main) using custom text from "Three Days of Happiness" by Sugaru Miaki*
 ## Preface
 Welcome to the design ramble of Night(s). This is a family of layouts I created - originally under one design theory, but shifted to each their own later down the line.
