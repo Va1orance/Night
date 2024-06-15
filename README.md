@@ -1,5 +1,5 @@
 # Night - A family of keyboard layouts.
-And so the stats rot consumes...
+And so the rot consumes...
 
 Night
 ```
@@ -22,38 +22,22 @@ x z ; k q  j w ' / ,
 *Heatmaps generated with [KLAnext](https://klanext.keyboard-design.com/#/main) using custom text from "Three Days of Happiness" by Sugaru Miaki*
 ## Preface
 Welcome to the design ramble of Night(s). This is a family of layouts I created - originally under one design theory, but shifted to each their own later down the line.
-This is going to be a long ramble, so I'll just summarize here:
+This is going to be quite long, so I'll just summarize here:
 
-Nightingale is an alternative keyboard layout designed for column-staggered keyboards. Much like how a bird spreads its wings to take flight, Nightingale tries to take advantage of the staggering of the keys by allowing one's fingers to maintain close proximity with one another; creating a comfortable typing experience at fast speeds - akin to how one's fingers would rest on a mouse. 
+Nightingale is an alternative keyboard layout designed for column-staggered keyboards. Much like how a nightingale spreads its wings to take flight, Nightingale tries to take advantage of the staggering of the keys by allowing one's fingers to maintain close proximity with one another; creating a comfortable typing experience at fast speeds - akin to how one's fingers would rest on a mouse. 
 
-Night is a modification of Nightingale that considers more       
-Here is the **basic** summary:
-N
-Night
-- Great SFBs
-- Great Alternation
-- Good (-1) Finger Positions
-- Decent SFSs
+Night is a modification of Nightingale that incorporates a more traditional approach to comfort.
 
-Nightingale
-- Great SFBs
-- Good Alternation
-- Decent Finger Positions
-- Decentish SFSs
+Stats wise, the Night family focuses on minimizing SFBs and bad redirects. 
+These however are just the basics, if you want to get a good understanding of these layouts, read on!
 
-Nights
-- Great SFBs
-- Decent Alternation
-- Decent SFSs
-- Okay Finger Positions
-
-In short, the Night family focuses on having minimal SFBs and minimal bottom row usage.
-If you want to learn why there are three layouts, when one clearly seems better than the rest, read on!
+**Special terms such as SFBs, SFSs, redirects, etc. can be found within the "Terminology" section.**
 
 ## How, What, Where, When, **Why?**
-Before I discuss how the layouts came to be, I have to talk about the reasoning behind them. I **strongly reccomend you read this** as if you disagree, these layouts are probably not optimal for you. I design these layouts for me, and my style of typing; if you have a similar style to mine, you may like this; if you don't that's okay! Just know these layouts may not be so suited to you.
+At this point, I have reached 160+ WPM twice, 140+ WPM thrice, 120+ WPM quadrice, and 100+ WPM a good few times. Going through so many layouts, I had to learn, relearn, adapt, undo, among many other things, on each layout. As a part of this learning, a technique commonly referred to as chunky or chording is developed. 
 
-At this point, I have reached 160+ WPM twice, 140+ WPM thrice, and 120+ WPM quadrice. In learning typing at these speeds, there is a method called "chunky typing" or "chording". This method recommends learning/memorizing common sequences of letters (such an OU; as in "you", "could", "would", etc.) instead of typing letter by letter (or even entire words). What I have personally noticed is that I find learning these chunks/chords easier when they feature natural directions of movement (i.e. typing QWE QWE QWE over WQE WQE WQE), feature fingers that are in the same position (i.e. QWE QWE QWE over QXC QXC QXC (type C with middle)), and overall do not require one finger flying from one extreme row to another (i.e. GET GET GET over BET BET BET). Through this set, we can narrow down into actual metrics:
+This method recommends learning/memorizing common sequences of letters (such an OU; as in "you", "could", "would", etc. or even just the whole word) instead of typing l e t t e r 
+ b y  l e t t e r . What I have personally noticed is that I find learning these chunks/chords easier when they feature natural directions of movement (i.e. typing QWE QWE QWE over WQE WQE WQE), feature fingers that are in the same position (i.e. QWE QWE QWE over QXC QXC QXC (type C with middle)), and overall do not require one finger flying from one extreme row to another (i.e. GET GET GET over BET BET BET). Through this set, we can narrow down into actual metrics:
 - Minimal bad redirects
 - Maximal per row usage 
 - Minimal finger movement
