@@ -51,6 +51,9 @@ These factors translates roughly into these metrics:
 
 Overall, this should narrow down to a layout that feels comfortable at high speeds.
 
+## Notice
+Everything I mention below will have variations or other ideas I ultimately did not decide to go through with. Take a look at the    `Modifications` section for suggestions :D.
+
 # Basic Layout
 Before we get into optimizing for the theory, I first needed a basis, a homerow. I was tempted to use Stern (I still really really like STH).
 But, it had a two main problems:
@@ -98,9 +101,9 @@ p v m k
 ```
 *already looking familiar...*
 
-Now yes, I will still be using an R thumb. The short reason for this is that it simply has the best stats. R interacts rather terribly with every other key and thus the best position would be to isolate it to the thumb.
+Now yes, I will still be using an `R` thumb. The short reason for this is that it simply has the best stats. `R` interacts rather terribly with every other key and thus the best position would be to isolate it to the thumb.
 
-Now quite accidentally, we setup LD being right next to each other. If you do little digging, you will find a lot of layouts using T which place the D in the bottom position. This is because the index curling position is regarded as one of, if not the best non-homerow positions.
+Now quite accidentally, we setup `LD` being right next to each other. If you do little digging, you will find a lot of layouts using `T` which place the `D` in the bottom position. This is because the index curling position is regarded as one of, if not the best non-homerow positions.
 
 However, this LD setup is great as there are a lot of words with LD ("would", "could", etc.) which follows are design theory of close fingers. That being said, there are some pretty obvious issues with the rest of the layout: 
 - BNP pinky is horrendous in movement.
@@ -115,6 +118,44 @@ p z m k x
       r    
 ```
 
-## Index Sorting
+## Vowel Hand Basics
+The vowel hand of layouts are generally well developed. With the remaining letters, a `C` index can be used to maintain low SFBs.
+```
+b f l d z  ; y o u .
+n s h t j  g c a e i 
+p v m k x  q w ' / ,  
+      r    
+```
+This is a pretty generic setup with `AO` and `EU`. `AO` and `EU` enables low SFBs among other stats. The advantage of `AO EU` over `EU AO` is `AO` features higher movement, thus being better suited for the middle finger. Meanwhile, `EU` has `E` with higher usage, but `U` features significantly lower usage compared to all other vowels; an overall lower movement and thus better suited to the weaker finger.
 
-**TBD**
+With this, `you` is able to be a roll instead of a redirect. If they were to be reversed, a `YI` pinky would have to be used (to maintain `you`). The main disadvantage of this setup is `I` is very ideal for puntucation. Again, check `Modifications` for further info.
+
+## Nights
+The vowel hand isn't quite done yet, but we have to fix the consonant hand first.
+
+The first major problem is `BNP`. The whole setup itself is just too much movement for pinky. Hence, we should split it up. 
+```
+p b l d v  q y o u .
+n s h t j  g c a e i 
+x v m k x  f w ' / ,  
+      r    
+```
+This first setup, known as Nights can still be found on cmini. I don't reccommend it, but BS is an interesting setup to consider:
+```
+b p l d v  q y o u .
+s n h t j  g c a e i 
+x z m k x  f w ' / ,  
+      r    
+```
+You may notice `S` and `N` are actually swapped here. This is because the `PN` pairing is significantly more usage than the `SB` pairing. Now of course, this reason for spliting up `PNB` wasn't done just for that.
+
+One common thing I noticed was the frequency of interactions with `L`. Specifically with `F, P, B, D`. This lead me to place these letters in close proximity to L in order to maximize these, without sacrificing SFBs if possible. As a resual of this constraint, F must be pushed to the vowel hand.
+
+Following this, V is pushed up to the top corner of the index in line with the design theory. 
+
+```
+b p l d v  f w o u .
+s n h t j  g y a e i 
+x z m k x  ; c ' / ,  
+      r    
+```
