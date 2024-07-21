@@ -1,39 +1,49 @@
-Night - A family of single thumb alpha layouts.
+# Night - A thumb alpha keyboard layout.
 
-Night
-```
-b f l k q  p g o u .
-n s h t m  c y a e i
-x v j d z  ; w ' / ,
-      r    
-```
-<img height="200" src="https://files.catbox.moe/jhfhne.png" />
+<img height="300" src="https://files.catbox.moe/t5pnes.png" />
 
-Nightingale
-```
-b f l d v  p g o u .
-n s h t m  c y a e i
-x z ; k q  j w ' / ,
-      r      
-```
-<img height="200" src="https://files.catbox.moe/0z2ej6.png" />
-
-*Heatmaps generated with [KLAnext](https://klanext.keyboard-design.com/#/main) using custom text from "Three Days of Happiness" by Sugaru Miaki*
+*Layout image made with [VIA](https://usevia.app/)
 ## Preface
-Welcome to the design ramble of Night(s). This is a family of layouts I created - originally under one design theory, but shifted to each their own later down the line.
-This is going to be quite long, so I'll just summarize here:
+As custom ergonomic keyboards become more available, layouts that utilize thumb alpha keys becomes more viable. Of the current list of popular, non-trick* utilizing thumb alpha layouts, only [Dusk](https://altlayouts.com/dusk/) is recommended. Night serves to join the recommendation list as a potential alternative to Dusk.
 
-The Night layout family are alternative keyboard layouts designed for thumb alpha keyboard layouts. 
+This page will cover the design of Night - exploring how it was made, potential modifications, problems, and my own experience using the layout.
 
-**Nightingale**
-- Nightingale takes advantage of the columnar staggering of the keys by allowing one's fingers to maintain close proximity with one another. This creates a comfortable typing experience at high speeds - akin to how one's fingers would rest on a mouse. 
+*Layouts that utilize magic, repeat key, double letters, etc.
 
-Night is a modification of Nightingale that incorporates a more traditional approach to design.
+## Statistics
+Night boasts good stats in general. It focuses on minimal SFBs, good SFSs, low 2U SFSs, and ultra-low bad redirects. It is designed to feature high alternation, a factor some prefer, while others do not. (See what these terms mean in the following section).
 
-Statistic wise, the Night family primarily focuses on minimizing SFBs and bad redirects. 
-These however, are just the basics; the following will be the process of how Night came to be.
+<img height="500" src="https://files.catbox.moe/pefdyu.png" />
 
-**Special terms such as SFBs, SFSs, redirects, etc. can be found within the "Terminology" section.**
+See: [Cyanophage's Web Analyzer](https://cyanophage.github.io/playground.html?layout=bflkzpgou%2Cnshtmycaei-xvjdq%27w%3B%2F.r&mode=ergo&lan=english)
+
+<img height="500" src="https://files.catbox.moe/zmj7z0.png" />
+
+See:[KeySolve](https://clemenpine.github.io/keysolve-web/) (This one you will need to input the layout yourself. Also, it must be mirrored due to Keysolve only supporting a right thumb alpha.)
+
+<img height="300" src="https://files.catbox.moe/seal5h.png" />
+
+See: [AKL Discord Server](https://discord.gg/2qq8qmDtFf) (Go to #cmini and type in !cmini view Night)
+
+
+
+## Terminology
+What is SFB, what is SFS, etc.? These are terms used to describe certain statistics of a keyboard layout. They help us quantify what exactly is good or bad in a layout.
+It is important to understand these as each plays a role in how layouts are designed.
+
+
+*All examples are in reference with the QWERTY keyboard layout.
+
+### Primary/Essential:
+**SFB:** Same finger bigram. You use the same finger to type two keys. This is much slower than using different fingers. (Example: ED)
+**SFS/DSFB:** Same finger skipgram/Disjointed same finger bigram. You use the same finger to type two keys, however, there is a key between which involves another finger. Debated in certain parts of the community, SFSs are slower as one key in between is not enough time for a finger to move to the next. (Example: WAS)
+**2U SFS:** Same as above, however, the distance the repeating finger has to move is 2 key units or greater. Noticeably worse than SFS/DSFB due to the added movement. (Example: MAY)
+**Bad Red:** A variant of a redirect, bad redirects do not involve the index finger. Redirects involve the key sequences against a common direction. This series of key sequences is considered more difficult although not uncomfortable. (Example: SAD)
+
+### Secondary/Preferential:
+**Roll:** Two key presses on the same hand with different fingers, followed by one more keypress on the other hand.
+**Red:** Redirect. Redirects involve the key sequences against a common direction. This series of key sequences is considered more difficult although not uncomfortable. Compared to Bad Reds, regular redirects are considered minor due to their effects in typing being questionable.
+
 
 ## How, What, Where, When, **Why?**
 At this point, I have reached 160+ WPM twice, 140+ WPM thrice, 120+ WPM quadrice, and 100+ WPM a good few times. Going through so many layouts, I had to learn, relearn, adapt, undo, among many other things, on each layout. However, each time I approached those top speeds, one particular skill had to be learned: chording. 
